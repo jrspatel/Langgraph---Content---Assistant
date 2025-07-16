@@ -25,7 +25,7 @@ All major steps can be **traced and debugged** in LangSmith.
 
 ## 🗺️ Workflow
 
-![Workflow Architecture](contentMermaid.png)
+![Workflow Architecture](content.png)
 
 ---
 
